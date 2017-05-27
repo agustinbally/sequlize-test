@@ -1,0 +1,24 @@
+{
+  "name": "sequelize_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.1",
+    "child_process": "^1.0.2",
+    "express": "^4.15.2",
+    "lodash": "^4.17.4",
+    "mysql": "^2.13.0",
+    "nodemon": "^1.11.0",
+    "path": "^0.12.7",
+    "sequelize": "^3.30.4",
+    "sequelize-cli": "^2.7.0",
+    "umzug": "^1.12.0"
+  }
+}
